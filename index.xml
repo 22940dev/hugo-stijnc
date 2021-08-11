@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stijn&#39;s personal site</title>
-    <link>https://callebaut.io/</link>
+    <link>https://hugo-stijnc.netlify.app/</link>
     <description>Recent content on Stijn&#39;s personal site</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://callebaut.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hugo-stijnc.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>https://callebaut.io/archive/</link>
+      <link>https://hugo-stijnc.netlify.app/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://callebaut.io/archive/</guid>
+      <guid>https://hugo-stijnc.netlify.app/archive/</guid>
       <description>archive</description>
     </item>
     
     <item>
       <title>Links to other useful blogs</title>
-      <link>https://callebaut.io/links/</link>
+      <link>https://hugo-stijnc.netlify.app/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://callebaut.io/links/</guid>
+      <guid>https://hugo-stijnc.netlify.app/links/</guid>
       <description>Links to other resources</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://callebaut.io/search/</link>
+      <link>https://hugo-stijnc.netlify.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://callebaut.io/search/</guid>
+      <guid>https://hugo-stijnc.netlify.app/search/</guid>
       <description>search</description>
     </item>
     
