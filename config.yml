@@ -1,4 +1,4 @@
-baseURL: "https://callebaut.io"
+baseURL: "https://hugo-stijnc.netlify.app"
 title: Stijn's personal site
 paginate: 8
 theme: hugo-PaperMod
